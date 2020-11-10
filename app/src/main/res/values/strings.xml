@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Money Converter</string>
+    <string name="title">Money Conversion</string>
+    <string name="hint">Money to Convert</string>
+    <string name="txtUSDtoYen">Convert USD to Yen</string>
+    <string name="txtYentoUSD">Convery Yen to USD</string>
+    <string name="txtButton">Convert Money</string>
+</resources>
